@@ -4,7 +4,7 @@
 <div align="center">
   <br/>
 
-  <h3><b>Reac to do list README</b></h3>
+  <h3><b>React to do list README</b></h3>
 
 </div>
 
