@@ -11,7 +11,7 @@ const aboutData = [
     slug: 'about-developer',
     title: 'About the developer',
     description:
-      'Ibas Majid founded ibaslogic.com to experiment with new web features and write actionable guides. Follow Ibas on Twitter @ibaslogic to learn modern web development.',
+      'Rida Bensalem is a full stack developer who is passionate about JavaScript and Ruby on Rails. He is currently working on a few projects to sharpen his skills.',
   },
 ];
 
